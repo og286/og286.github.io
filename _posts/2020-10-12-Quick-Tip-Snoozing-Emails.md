@@ -2,7 +2,6 @@
 layout: post
 title: Quick Tech Tip - Snoozing Emails in nhs.net
 ---
-# Quick Tech Tip - Snoozing Emails in nhs.net - OWA
 
 ![Snoozing Emails in NHS.net](/images/snooze1.PNG)
 
