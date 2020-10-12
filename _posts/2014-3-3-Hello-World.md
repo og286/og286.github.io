@@ -5,8 +5,8 @@ title: Testing Testing
 # Title 1
 ## Title 2
 ### Title 3
-**bold
-*italics
+**bold**
+*italics*
 ![test image](https://i.redd.it/w3kr4m2fi3111.png)
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
