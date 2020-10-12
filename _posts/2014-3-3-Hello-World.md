@@ -7,7 +7,7 @@ title: Testing Testing
 ### Title 3
 **bold
 *italics
-! [test image](https://i.redd.it/w3kr4m2fi3111.png)
+![test image](https://i.redd.it/w3kr4m2fi3111.png)
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
