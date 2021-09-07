@@ -21,4 +21,4 @@ I have a BSc. in Speech and Language Therapy, an MSc. in Healthcare Leadership a
 I post more regularly on [Twitter](https://www.twitter.com/JonRoustonSLT) - a mixture of daily nonsense and occasionally something useful. I keep a [library](https://publish.obsidian.md/jonrouston/_index) as a second brain as the first one is not always effective. 
 
 
-You can see something like a [blog or updates here](https://rouston.co.uk/blog/).
+You can see something like a [blog or updates here](https://rouston.co.uk/blog/). You can also see my bookmarks and my [reading list](https://pinboard.in/u:jonrouston/unread/), which I might get around to reading one day - on my [Pinboard](https://pinboard.in/u:jonrouston).
