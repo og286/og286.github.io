@@ -9,11 +9,11 @@ A lot of my work over the past 6 months has been as part of a team setting up Vi
 But if we set up virtual wards in isolation, we're at risk of people dropping off another edge - if they successfully avoid an admission to hospital or are 'stepped down' earlier - what happens then? Does the remote monitoring stop - what if those people had started to take notice of their own observations and were using these to manage their health? There is clearly a need to think about how remote care works across the system. 
 
 As part of the work on virtual wards I attended a webinar where this slide was shown
-![HospitalatHomeLevels](/images/Pastedimage20211105151109.png)
+![A graphic showing hospital at home hierarchy levels of care](/images/Pastedimage20211105151109.png)
 I really like this idea and being shameless, I stole and adapted it to meet the needs for a hierarchy locally.
 
 So this is where our thinking is at the moment
-![RemoteCareLevels](/images/VirtualWards.png)
+![A graphic showing remote care levels of care](/images/1.png)
 
 It follows the same model of decreasing population with acuity - but the levels are slightly different as it is looking at how we offer this within our system and how we might support someone across the different phases of their condition. 
 
