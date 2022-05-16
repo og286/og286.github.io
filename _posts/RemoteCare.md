@@ -13,7 +13,7 @@ As part of the work on virtual wards I attended a webinar where this slide was s
 I really like this idea and being shameless, I stole and adapted it to meet the needs for a hierarchy locally.
 
 So this is where our thinking is at the moment
-![A graphic showing remote care levels of care](/images/1.png)
+![A graphic showing remote care levels of care](/images/VirtualWards1.png)
 
 It follows the same model of decreasing population with acuity - but the levels are slightly different as it is looking at how we offer this within our system and how we might support someone across the different phases of their condition. 
 
