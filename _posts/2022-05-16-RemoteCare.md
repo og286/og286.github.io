@@ -2,7 +2,7 @@
 layout: post
 title: A Remote Care Hierarchy
 ---
-# A Remote Care Hierarchy
+
 ![A graphic showing remote care levels of care](/images/VirtualWards1.png)
 A lot of my work over the past 6 months has been as part of a team setting up Virtual Wards in Lincolnshire. This has been a collaborative effort across our system featuring input from our community, acute, mental health, primary care and care provider organisations. We've been successful in getting the frailty virtual ward up and running with small number (but big impact!) and colleagues have been successful with the cardiology virtual ward (which I can't take much credit for!). 
 
