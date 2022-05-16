@@ -15,10 +15,10 @@ I've got a wide variety of different interests in implementation of healthcare, 
 - System working
 
 
-I have a BSc. in Speech and Language Therapy, an MSc. in Healthcare Leadership and am about to start a PGDip in Digital Healthcare Leadership. I am also studying PRINCE2 which is so far outside of my comfort zone it is unreal. 
+I have a BSc. in Speech and Language Therapy, an MSc. in Healthcare Leadership and currently completing a PGDip in Digital Healthcare Leadership.
 
 
-I post more regularly on [Twitter](https://www.twitter.com/JonRoustonSLT) - a mixture of daily nonsense and occasionally something useful. I keep a [library](https://publish.obsidian.md/jonrouston/_index) as a second brain as the first one is not always effective. 
+I post more regularly on [Twitter](https://www.twitter.com/JonRoustonSLT) - a mixture of daily nonsense and occasionally something useful. 
 
 
 You can see something like a [blog or updates here](https://rouston.co.uk/blog/). You can also see my bookmarks and my [reading list](https://pinboard.in/u:jonrouston/unread/), which I might get around to reading one day - on my [Pinboard](https://pinboard.in/u:jonrouston).
